@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: Primes.Lib
+  commentId: N:Primes.Lib
+  id: Primes.Lib
+  children:
+  - Primes.Lib.PrimeService
+  langs:
+  - csharp
+  - vb
+  name: Primes.Lib
+  nameWithType: Primes.Lib
+  fullName: Primes.Lib
+  type: Namespace
+  assemblies:
+  - Primes.Lib
+references:
+- uid: Primes.Lib.PrimeService
+  commentId: T:Primes.Lib.PrimeService
+  href: Primes.Lib.PrimeService.html
+  name: PrimeService
+  nameWithType: PrimeService
+  fullName: Primes.Lib.PrimeService

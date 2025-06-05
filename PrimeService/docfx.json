@@ -1,0 +1,26 @@
+{
+  "metadata": [
+    {
+      "src": [
+        {
+          "files": [ "Primes.Lib/Primes.Lib.csproj" ]
+        }
+      ],
+      "dest": "api"
+    }
+  ],
+  "build": {
+    "content": [
+      {
+        "files": [ "api/**.yml", "toc.yml" ]
+      },
+      {
+        "files": [ "index.md" ]
+      }
+    ],
+    "dest": "_site",
+    "globalMetadata": {
+      "_appTitle": "Documentación de Primes.Lib"
+    }
+  }
+}

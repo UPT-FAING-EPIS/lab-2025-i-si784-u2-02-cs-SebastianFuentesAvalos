@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>1591</NoWarn> 
+    <!-- NuGet metadata -->
+    <PackageId>Primes.Lib</PackageId>
+    <Version>1.0.0</Version> <!-- Esto se sobrescribe en el workflow -->
+    <Authors>LuzkalidGM</Authors>
+    <Company>LuzkalidGM</Company>
+    <Description>Library for checking and listing prime numbers, used for testing with xUnit.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/UPT-FAING-EPIS/lab-2025-i-si784-u2-02-cs-LuzkalidGM</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/UPT-FAING-EPIS/lab-2025-i-si784-u2-02-cs-LuzkalidGM</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>

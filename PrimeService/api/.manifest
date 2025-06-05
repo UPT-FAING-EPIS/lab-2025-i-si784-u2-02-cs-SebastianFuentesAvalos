@@ -1,0 +1,5 @@
+{
+  "Primes.Lib": "Primes.Lib.yml",
+  "Primes.Lib.PrimeService": "Primes.Lib.PrimeService.yml",
+  "Primes.Lib.PrimeService.IsPrime(System.Int32)": "Primes.Lib.PrimeService.yml"
+}

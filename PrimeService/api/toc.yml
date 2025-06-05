@@ -1,0 +1,10 @@
+### YamlMime:TableOfContent
+items:
+- uid: Primes.Lib
+  name: Primes.Lib
+  type: Namespace
+  items:
+  - uid: Primes.Lib.PrimeService
+    name: PrimeService
+    type: Class
+memberLayout: SamePage
