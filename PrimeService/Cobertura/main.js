@@ -213,7 +213,7 @@ var assemblies = [
   {
     "name": "Primes.Lib",
     "classes": [
-      { "name": "Primes.Lib.PrimeService", "rp": "Primes.Lib_PrimeService.html", "cl": 4, "ucl": 0, "cal": 4, "tl": 18, "cb": 2, "tb": 2, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "Primes.Lib.PrimeService", "rp": "Primes.Lib_PrimeService.html", "cl": 3, "ucl": 1, "cal": 4, "tl": 11, "cb": 1, "tb": 2, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
 ];
 
